@@ -27,12 +27,12 @@ default:
   email_delivery:
       delivery_method: :smtp
       smtp_settings:
-        address: "pcomplex.ua"
+        address: ""
         port: 25
         authentication: :login
-        domain: 'pcomplex.ua'
-        user_name: 'redmine_pcomplex@pcomplex.ua'
-        password: 'redmine2026pc'
+        domain: 'a'
+        user_name: ''
+        password: ''
   #
   # ==== SMTP server at example.com using PLAIN authentication
   #
