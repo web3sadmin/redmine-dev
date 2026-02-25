@@ -1,0 +1,1 @@
+bundle exec rake redmine:plugins NAME=redmine_people RAILS_ENV=production

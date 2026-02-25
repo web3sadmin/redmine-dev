@@ -1,0 +1,4 @@
+/* Уменьшение логотипа на главной странице */
+#wrapper #content .wiki img {
+    max-width: 50%; height: auto;
+}
